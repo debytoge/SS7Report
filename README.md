@@ -58,11 +58,11 @@ Otomatis alat akan berjalan
  <img src="https://github.com/Panji-Hitam/SS7Report/blob/main/IMG_20220108_180939.jpg" width="640" title="ScreenShot" alt="Menu">
 </p>
 
-### ScreenShot Proses Report
+### Screenshot Proses Report
  <img src="https://github.com/Panji-Hitam/SS7Report/blob/main/Screenshot_2022-01-08-18-03-02-80.jpg" width="640" title="ScreenShot" alt="Menu">
 </p>
 
-### ScreenShot Target Down / Hangus
+### Postingan Target Down / Hangus
  <img src="https://github.com/Panji-Hitam/SS7Report/blob/main/IMG_20220108_180958.jpg" width="640" title="ScreenShot" alt="Menu">
 </p>
 
@@ -72,4 +72,4 @@ Otomatis alat akan berjalan
 ## ⚡ Report Bug
 ## ⚡ Script Versi Premuim
 ## ⚡ Script Versi Terbaru
-[![Instagram](https://img.shields.io/badge/Instagram-Report-green?style=for-the-badge&logo=Instagram)](https://www.instagram.com/
+## 💌 Panji Hitam
