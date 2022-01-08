@@ -51,22 +51,22 @@ Harus yakin asal tujuan benar
 Otomatis alat akan berjalan
 
 ### ScreenShot SS7Report
- <img src="https://github.com/Panji-Hitam/SS7Report/blob/main/Screenshot_2022-01-08-18-07-42-58.jpg" width="640" title="ScreenShot" alt="Menu">
-</p>
+ <img src="https://github.com/Panji-Hitam/SS7Report/blob/main/Screenshot_2022-01-08-18-07-42-58.jpg" width="640" title="ScreenShot" alt="Menu"> </p>
+
 
 ### ScreenShot Video Target
- <img src="https://github.com/Panji-Hitam/SS7Report/blob/main/IMG_20220108_180939.jpg" width="640" title="ScreenShot" alt="Menu">
-</p>
+ <img src="https://github.com/Panji-Hitam/SS7Report/blob/main/IMG_20220108_180939.jpg" width="640" title="ScreenShot" alt="Menu"> </p>
+
 
 ### ScreenShot Proses Report
- <img src="https://github.com/Panji-Hitam/SS7Report/blob/main/Screenshot_2022-01-08-18-03-02-80.jpg" width="640" title="ScreenShot" alt="Menu">
-</p>
+ <img src="https://github.com/Panji-Hitam/SS7Report/blob/main/Screenshot_2022-01-08-18-03-02-80.jpg" width="640" title="ScreenShot" alt="Menu"> </p>
+
 
 ### Postingan Down / Hangus
- <img src="https://github.com/Panji-Hitam/SS7Report/blob/main/IMG_20220108_180958.jpg" width="640" title="ScreenShot" alt="Menu">
-</p>
+ <img src="https://github.com/Panji-Hitam/SS7Report/blob/main/IMG_20220108_180958.jpg" width="640" title="ScreenShot" alt="Menu"> </p>
 
-# Link Target :
+
+# Link Target Report :
 # https://www.facebook.com/berkahmanfaat.id/videos/1373149869807354/
 
 
